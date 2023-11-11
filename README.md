@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Christian Gómez - Programador Web</title>
   </head>
   <body>
-    <h1>Hola mundo </h1>
+    <h1>Web en mantenimiento</h1>
+    <h3>Contacto</h3>
+    <p>
+      644 67 28 80
+    </p>
   </body>
 </html>
